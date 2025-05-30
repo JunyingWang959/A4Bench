@@ -8,7 +8,7 @@
   
   <h1>A-Bench: Are LMMs Masters at Evaluating AI-generated Images?</h1>
   
-_What do we expect from LMMs as AIGI evaluators and how do they perform?_
+_What affordance perception should MLLMs have?_
 
   <div>
       <a>Junying Wang</a><sup>1,2</sup>,
