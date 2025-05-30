@@ -6,7 +6,7 @@
   </div>
 
   
-  <h1>A-Bench: Are LMMs Masters at Evaluating AI-generated Images?</h1>
+  <h1>Affordance Benchmark for MLLMs</h1>
   
 _What affordance perception should MLLMs have?_
 
