@@ -38,7 +38,7 @@ _What affordance perception should MLLMs have?_
   
 </div>
    
-  <a><strong>Paper</strong></a> |
+  <a href="https://arxiv.org/abs/2506.00893"><strong>Paper</strong></a> |
 <a href="https://github.com/JunyingWang959/A4Bench"><strong>Github</strong></a> |
  <a href="https://huggingface.co/datasets/JunyingWang/A4Bench"><strong>Data</strong></a> 
   <div style="width: 100%; text-align: center; margin:auto;">
