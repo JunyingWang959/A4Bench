@@ -61,6 +61,18 @@ a comprehensive evaluation of the affordance perception capabilities.
   <div style="width: 80%; text-align: center; margin:auto;">
       <img style="width:80%" src="case.png">
   </div>
+</div>
 
+
+## Citation
+If you found this code helpful, please consider citing:
+~~~
+@article{wang2025affordance,
+  title={Affordance Benchmark for MLLMs},
+  author={Wang, Junying and Li, Wenzhe and Wu, Yalun and Liang, Yingji and Guo, Yijin and Li, Chunyi and Duan, Haodong and Zhang, Zicheng and Zhai, Guangtao},
+  journal={arXiv preprint arXiv:2506.00893},
+  year={2025}
+}
+~~~
 
 
